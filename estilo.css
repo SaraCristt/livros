@@ -5,13 +5,16 @@
     width: 150px;
     
 }
-.container{
+.livro{
+    margin-top: 45px;
+    justify-content: center;
     display: flex;
     align-items: center;
     padding: 20px;
 }
 .ppreços{
     border:3px solid black;
+    background: #B9D6C3;
 }
 #paragrafo{
     width: 800px;
@@ -24,9 +27,17 @@
     padding: 60px;
     line-height: 100%;
     text-align: center;
+    background: #cccccc;
+    width: 80px;
+    height: 150px;
+    margin-bottom: 10px;
 }
-.container2{
+h2{
+    text-align: center;
+}
+.livros2{
     width: 100%;
+    margin-top: 45px;
     display: flex;
     justify-content: center;
 }
